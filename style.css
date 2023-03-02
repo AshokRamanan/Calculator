@@ -57,6 +57,11 @@ button {
 }
 #equal_to {
     width: 145px;
+    color: var(--textColor);
+    background-color: var(--operText);
+}
+#equal_to:hover {
+    opacity: .7;
 }
 button:hover {
     background-color: var(--buttonHover);
