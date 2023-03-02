@@ -1,10 +1,46 @@
 :root {
+    --bg-color : #8ecae6;
+    --calFrame : #023047;
+    --buttonHover : #032435;
+    --operText : #fb8500;
+    --textColor : white;
+}
+/*
+:root {
+    --bg-color : #ffdf3dcc;
+    --calFrame : #001d3d;
+    --buttonHover : #051322;
+    --operText : #ff0054;
+    --textColor : white;
+}
+:root {
+    --bg-color : #ffdf3dcc;
+    --calFrame : #001d3d;
+    --buttonHover : #051322;
+    --operText : #ffc300;
+    --textColor : white;
+}
+:root {
+    --bg-color : #f1faee;
+    --calFrame : #023047;
+    --buttonHover : #032435;
+    --operText : #e63946;
+    --textColor : white;
+}
+:root {
+    --bg-color : #8ecae6;
+    --calFrame : #023047;
+    --buttonHover : #032435;
+    --operText : #fb8500;
+    --textColor : white;
+}
+:root {
     --bg-color : rgb(168, 255, 241);
     --calFrame : #3a4452;
     --buttonHover : #2b333d;
     --operText : rgb(31, 201, 231);
     --textColor : white;
-}
+}*/
 
 * {
     margin: 0;
